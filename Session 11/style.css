@@ -1,0 +1,36 @@
+.box {
+    background-image: url("./hinhnen.gif");
+    background-color: aquamarine;
+    width: 1000px;
+    height: 500px;
+    position: relative;
+}
+
+.inbox{
+    width: 500px;
+    height: 200px;
+    text-align: center;
+    border: 1px solid grey;
+    border-radius: 20px;
+    background-color: white;
+    position:absolute;
+    margin-top:80px;
+    margin-left:250px;
+    background-image: url("batman.jpg");
+}
+
+.email {
+    text-align: left;
+    color:white;
+    font-size: 20px;
+    margin-right: 50px;
+    margin-left: 10px;
+}
+
+.pass {
+    text-align: left;
+    color:white;
+    font-size: 20px;
+    margin-right: 50px;
+    margin-left: 10px;
+}
